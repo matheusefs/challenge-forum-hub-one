@@ -225,7 +225,7 @@ O token expira em **24 horas**.
 
 Desenvolvido com 💙 durante o **Challenge Oracle Next Education (ONE) - Alura**
 
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus--Emanuel-black?style=for-the-badge&logo=github)](https://github.com/matheusefs/)
 
 ---
 
